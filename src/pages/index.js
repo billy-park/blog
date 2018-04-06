@@ -5,7 +5,7 @@ import PostListing from '../components/Posts/PostListing';
 const IndexPage = ({data}) => (
   <div>
     <h1
-    style={{textAlign: 'center', color: 'black'}}>Blog Posts</h1>
+    style={{textAlign: 'center'}}>Blog Posts</h1>
     {data.allMarkdownRemark.edges.map(({node}) => (
       <PostListing key={node.id} post={node} />
     ))}
