@@ -1,6 +1,6 @@
 backend: 
   name: github
-  repo: billy-park/gatsbynetlify
+  repo: billy-park/blog
 
 media_folder: static/assets
 public_folder: /assets
