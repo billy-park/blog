@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'The Wizzard Tower',
-    desc: "Wizz's Blog!"
+    title: "Billy's Dev Blog",
+    desc: "Billy's Dev Blog!"
   },
   plugins: [
     'gatsby-plugin-react-helmet', 

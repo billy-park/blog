@@ -81,7 +81,7 @@ componentDidUpdate = (prevProps, prevState) => {
             <h2
             style={{
               textAlign: 'center'
-            }}>Billy's Ramblings</h2>
+            }}>Billy's Dev Blog</h2>
               
             </Link>
           </h1>

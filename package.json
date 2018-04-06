@@ -1,8 +1,7 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "The Wizzard Tower",
+  "name": "Billy's Dev Blog",
+  "description": "Billy Park's Dev Blog",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.241",
     "gatsby-image": "^1.0.43",
