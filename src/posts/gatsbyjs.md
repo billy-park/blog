@@ -1,5 +1,5 @@
 ---
-title: GatsbyJS
+title: The Great GatsbyJS
 date: '2018-04-09'
 ---
 This blog is built using GatsbyJS which for me was a great opportunity to get a little more experience working with React + Webpack, all while learning about static site generators, Netlify and Netlify CMS. GatsbyJS is in their own words, a "blazing-fast static site generator for React" and it certainly seems to live up to that statement in my limited experience with it building this blog.
