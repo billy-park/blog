@@ -14,6 +14,12 @@ const AboutContent = styled.div`
         height: 300px;
         margin-left: 30px;
     }
+    @media only screen and (max-width: 768px) {
+        /* For mobile phones: */
+        img {
+            display: none;
+        }
+    }
 `;
 
 class About extends Component {
